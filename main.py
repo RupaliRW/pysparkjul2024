@@ -16,5 +16,6 @@ if __name__ == '__main__':
     res = result.collect()
     for (w, c) in res:
         print(w + " -- " + str(c))
+    print("done")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
